@@ -187,12 +187,3 @@ T. Nagar, Chennai
 The Prompt of the above task executed successfully
 
 
-
-
-
-
-
-
-
-# Result:
-

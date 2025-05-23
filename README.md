@@ -41,7 +41,14 @@ Save different versions of the videos and compare the results to understand how 
 # 🪄 PROMPT
 
 >  Begin with soft, uplifting music and visuals of fresh flowers bathed in morning light. Show the shop’s inviting atmosphere as the text “Welcome to Flower Boutique – Where Every Petal Tells a Story” fades in. Cut to warm scenes of florists handcrafting bouquets with love and precision. Let the voiceover say, “At Flower Boutique, every bloom is chosen with care. For love, celebration, or remembrance—our flowers speak your heart.” Transition to close-ups of vibrant roses, lilies, and orchids. Overlay the text: “Fresh Flowers | Custom Bouquets | Event Decor.” End with happy customers receiving bouquets and event spaces adorned with our floral designs.
-> 
+
+---
+
+## OUTPUT LINK:
+https://drive.google.com/file/d/1D45URG40F17jf_cOBtuzjRFvjoU0W8Ta/view?usp=drive_link
+
+---
+
 # 🎥 Video Prompt: Promotional Ad for Flower Boutique
 
 ## 🎬 Scene Breakdown

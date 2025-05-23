@@ -141,10 +141,13 @@ Apply the following effects to each image:
 ---
 
 
-# SCRIPT
+## SCRIPT
 >  At Floral World, every petal tells a story. From enchanting weddings to heartwarming gifts, our floral designs bring your moments to life with grace and beauty. This season, celebrate love with 30% off all wedding floral packages. Let soft colors, delicate scents, and timeless elegance turn your day into a masterpiece. Floral World—where romance blooms, and every memory is wrapped in beauty.
-# 📝 VIDEO INCLUDES
-# 🌷 Welcome to Flower Boutique – Where Every Petal Tells a Story! 🌷
+
+---
+
+## 📝 VIDEO INCLUDES
+## 🌷 Welcome to Flower Boutique – Where Every Petal Tells a Story!
 
 Discover handcrafted floral arrangements designed to bring **joy**, **elegance**, and **charm** to every occasion.  
 Whether it’s a romantic gesture, a festive celebration, or a heartfelt surprise—**we’ve got the perfect bouquet for you**.
